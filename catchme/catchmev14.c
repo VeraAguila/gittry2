@@ -528,7 +528,8 @@ void showAbout(){	// Code to display about information goes here
     newlineENtab(1, 3);		printf("Information Technology Track\t\t    Information Technology Track");
     newlineENtab(6, 2);		printf("    Project Name: Catch Me\t\t\t Group Name: MAVE");
     newlineENtab(2, 2);		printf("    Submitted to: Mr. Edward Andaya\t\t Date Created: March 2023 - May 2023");
-    press();
+printf("hello");    
+press();
 	showMainMenu();
 }
 
